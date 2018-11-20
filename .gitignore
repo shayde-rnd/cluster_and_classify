@@ -1,3 +1,4 @@
 articles
 .vscode
 __pycache__/
+*.pyc
